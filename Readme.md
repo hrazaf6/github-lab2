@@ -7,3 +7,8 @@ terraform init
 terraform plan
 terraform apply
 ```
+
+To destroy this use this command
+```
+terraform destroy
+```
